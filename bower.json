@@ -1,0 +1,26 @@
+{
+  "name": "thirdparty",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Oluwafemi Sule <oluwafemisule@outlook.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.2",
+    "reqwest": "^2.0.5",
+    "babel-standalone": "^6.7.4",
+    "d3": "^3.5.17",
+    "requirejs": "^2.2.0"
+  }
+}
